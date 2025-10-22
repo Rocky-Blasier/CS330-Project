@@ -1,0 +1,20 @@
+CS 330 Final Reflection
+
+In the beginning of the software design process, I used to decompose the main goal into smaller and easier components, 
+and then determine the interaction between the components. 
+In this case, it implied classifying the whole scene into circles and bricks, 
+with each group having its own properties and behaviors. 
+My involvement in this project was instrumental in me sharpening the fibustry of designing with modularity and reusability as 
+the main objectives, whereby every part of the program was to be the clear part of the whole system.
+
+When I make a program, my first step is to determine the features, second to build the code structure, and finally to make the 
+code readable and efficient. Among other things, in this 3D scene I applied new techniques, like detecting collisions, 
+dynamic object spawning, and physics-based motion. This was an iterative process, since I had to repeatedly test my work, 
+change the parameters and fine-tune the behaviors to achieve the desired result. I have thus gone through all the stages of 
+development starting from simply writing code that works to creating clean, well-structured, and visually attractive software.
+
+Computer science offers me the means to achieve my aspirations by basically improving my problem-solving and critical-thinking 
+skills. My exposure to computational graphics and visualizations has given me a new perspective on how math, physics, and 
+programming can be combined to create engaging and realistic digital environments. The skills I have acquired will not only 
+facilitate my learning process but will also be directly applicable in the professional fields such as software development, 
+game designing, or interactive simulations.
